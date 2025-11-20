@@ -2,3 +2,14 @@ body{
   background-color: orangered;
   font-family: monospace;
 }
+#cell{
+  width: 60em;
+  height:60em;
+  border-style:solid;
+  border-color:black;
+  border-radius: 25%;
+  padding:1em:
+}
+
+  
+  
